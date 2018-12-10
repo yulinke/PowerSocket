@@ -1,0 +1,2 @@
+# PowerSocket
+Power Socket sensor
